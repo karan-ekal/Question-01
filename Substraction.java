@@ -6,5 +6,6 @@ class Substraction {
         int Sub = a - b;
         System.out.println("Substraction of a and b is:"+Sub);
         System.out.println("---------End-----------");
+	  System.out.println("---------Automation Complete-----------");
     }
 }
