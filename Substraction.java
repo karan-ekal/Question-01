@@ -8,9 +8,9 @@ class Substraction {
 
         b = 10;
 
-        int sub = a - b;
+        int sub = a-b;
 
-        System.out.println("Substraction of a and b is:" + Sub);
+        System.out.println("Substraction of a and b is:"+Sub);
 
         System.out.println("---------End-----------");
 
